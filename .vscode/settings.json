@@ -1,0 +1,23 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#800080",
+    "activityBar.foreground": "#FBFBFF",
+    "titleBar.activeBackground": "#090872",
+    "titleBar.activeForeground": "#FBFBFF",
+    "titleBar.inactiveBackground": "#040439",
+    "titleBar.inactiveForeground": "#FBFBFF",
+    "tab.inactiveBackground": "#800080",
+    "tab.activeBackground": "#C000C0",
+    "tab.hoverBackground": "#C000C0",
+    "tab.unfocusedHoverBackground": "#C000C0",
+    "editorGroupHeader.tabsBackground": "#800080",
+    "titleBar.border": "#800080",
+    "sideBarTitle.background": "#800080",
+    "statusBar.background": "#800080"
+  }
+}
